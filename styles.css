@@ -1,0 +1,24 @@
+body {
+    background-color : #393E46;
+}
+hr {
+    border-color: #6D9886;
+    border-style: dotted none none;
+    width: 70%;
+    margin: 2em;
+}
+h1 {
+    color : #F2E7D5;
+}
+h3 {
+    color : #F2E7D5;
+}
+ol {
+    color : #F2E7D5;
+}
+p {
+    color : #F7F7F7;
+}
+a {
+    color : #F7F7F7;
+}
